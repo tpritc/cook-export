@@ -1,5 +1,7 @@
 # Cook Export
 
+[![npm version](https://badge.fury.io/js/cook-export.svg)](https://badge.fury.io/js/cook-export)
+
 Cook Export is a command line tool by [Thomas Pritchard](http://tpritc.com) to export your recipes from the recipe app, [Cook](http://thecookapp.com). My mother uses this app to store all of her recipes, but since it hasn't received updates in a while, we were a little worried about being locked-in. After emailing the team at Cook asking for an official export tool, and receiving no reply, I decided to make my own.
 
 ## Installing
