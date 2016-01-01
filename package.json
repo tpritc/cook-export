@@ -1,0 +1,29 @@
+{
+  "name": "cook-export",
+  "version": "1.0.0",
+  "description": "Export your recipes from Cook to the open and easy-to-use JSON format.",
+  "main": "cook-export.js",
+  "dependencies": {
+      "async": "*",
+      "cheerio": "*",
+      "request": "*"
+  },
+  "bin": {
+    "cook-export": "cook-export.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tpritc@github.com/tpritc/cook-export.git"
+  },
+  "keywords": [
+    "cook",
+    "export",
+    "json"
+  ],
+  "author": "Thomas Pritchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpritc/cook-export/issues"
+  },
+  "homepage": "https://github.com/tpritc/cook-export#readme"
+}
