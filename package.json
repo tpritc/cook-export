@@ -1,6 +1,6 @@
 {
   "name": "cook-export",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export your recipes from Cook to the open and easy-to-use JSON format.",
   "main": "cook-export.js",
   "dependencies": {
