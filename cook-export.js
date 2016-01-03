@@ -23,7 +23,7 @@ if (arguments.length > 0 && arguments.length < 3) {
 
         // Create Interface
         var lineReader = require('readline').createInterface({
-            input: require('fs').createReadStream(__dirname + '/' + arguments[0])
+            input: require('fs').createReadStream(arguments[0])
         });
 
         // Read lines with a worldscookbook.com URL in them
